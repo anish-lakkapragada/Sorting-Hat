@@ -45,7 +45,7 @@ elif choice1 == "IV":
 print("Question 3: You are approaching the enemy city, what do you do?")
 print("I: Charge into it.")
 print("II: Wait for renforcements.")
-print("III: Surround it and the wait for renforcements.")
+print("III: Surround it and then wait for renforcements.")
 print("IV: Surround it, slowly advance, and take it over. If they show signs of resistance burn it to the ground.")
 
 choice2 = input()

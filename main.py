@@ -77,6 +77,26 @@ elif choice3 == "III":
 elif choice3 == "IV":
   points += 4
 
+  
+  
+  
+  
+  
+#If you have a suggestion for a new question, do it in this format:
+#print("Question questionnumber: The question?")
+#print("I: Choice 1.")
+#print("II: Choice 2.")
+#print("III: Choice 3.")
+#print("IV: Choice 4.")
+#choice3 = input()
+#if choice3 == "I":
+#  points += 1
+#elif choice3 == "II":
+#  points += 2
+#elif choice3 == "III":
+#  points += 3
+#elif choice3 == "IV":
+#  points += 4
 
 
 
